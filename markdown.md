@@ -6,7 +6,7 @@ permalink: /markdown/
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](http://sinapsa.si).
+[Link to another page](https://sinapsa.si).
 
 There should be whitespace between paragraphs.
 
