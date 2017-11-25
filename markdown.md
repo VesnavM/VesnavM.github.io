@@ -96,7 +96,7 @@ end
 
 ### Small image
 
-![](MountBromoIndonesia.jpg)
+![](/MountBromoIndonesia.jpg)
 
 ### Large image
 
